@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">uniAgenda</string>
+    <string name="ag">Agenda</string>
+    <string name="cal">Calendario</string>
+</resources>
